@@ -42,11 +42,11 @@ This collection archives all 15 pets published by **dxlian** on Petdex as of **2
 
 ## 下载与安装
 
-**下载整个合集：** [Download ZIP](https://github.com/dxlian/petdex-pets/archive/refs/heads/main.zip)，或运行：
+**下载整个合集：** [Download ZIP](https://github.com/dxlian/codex-pets/archive/refs/heads/main.zip)，或运行：
 
 ```sh
-git clone https://github.com/dxlian/petdex-pets.git
-cd petdex-pets
+git clone https://github.com/dxlian/codex-pets.git
+cd codex-pets
 ```
 
 ### 安装到 Codex
