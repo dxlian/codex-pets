@@ -69,16 +69,16 @@ The third installs all 15 pets. The installer verifies every selected package be
 `--pet` accepts a **Petdex slug** and may be repeated. Omitting it selects all pets.
 
 ```powershell
-# Windows: install Hanli
+# Windows: install 韩立（Han Li）
 py -3 scripts/install.py --pet hanli-2
-# Windows: install Erdu (二嘟), Hanli, and CC Cat
+# Windows: install 二嘟（Erdu）, 韩立（Han Li）, and CC猫（CC Mao）
 py -3 scripts/install.py --pet erdu --pet hanli-2 --pet cc-cat-3
 ```
 
 ```sh
-# macOS / Linux: install Hanli
+# macOS / Linux: install 韩立（Han Li）
 python3 scripts/install.py --pet hanli-2
-# macOS / Linux: install Erdu (二嘟), Hanli, and CC Cat
+# macOS / Linux: install 二嘟（Erdu）, 韩立（Han Li）, and CC猫（CC Mao）
 python3 scripts/install.py --pet erdu --pet hanli-2 --pet cc-cat-3
 ```
 
@@ -124,7 +124,7 @@ The installer rejects destinations inside this repository, filesystem roots, and
 ## 6. Install an individual pet manually
 
 You can copy the files manually without using the Python installer. Running the integrity check first is recommended.
-For Hanli, the repository slug is `hanli-2`, while the id inside `pet.json` is `hanli`:
+For 韩立（Han Li）, the repository slug is `hanli-2`, while the id inside `pet.json` is `hanli`:
 
 1. Open `pets/hanli-2/` in the repository and confirm it contains `pet.json` and `spritesheet.webp`.
 2. Locate the client's pets root. The default is `~/.codex/pets/`; see the previous section for custom locations.
@@ -182,7 +182,7 @@ The validator normally returns `0` or `1`. After an installation error, read the
 ## 8. Remove a pet
 
 Close the client, confirm the pet's **original id**, and remove only that specific folder from the pets root. Then reopen the client.
-For example, Hanli uses `hanli`, not the repository slug `hanli-2`. Back up the folder outside pets first if you want to keep it.
+For example, 韩立（Han Li） uses `hanli`, not the repository slug `hanli-2`. Back up the folder outside pets first if you want to keep it.
 Do not remove the entire `.codex` or `pets` directory. This repository has no automatic uninstall command and will not delete installed files for you.
 
 ## 9. Troubleshooting
@@ -195,7 +195,7 @@ Do not remove the entire `.codex` or `pets` directory. This repository has no au
 
 **Two foxes have the same display name.** `yinyue-fox` and `yinyue-3` have different appearances, but both original display names may be “银月狐狸”. Their installed ids are `yinyue-fox` and `yinyue`; use the previews to distinguish them.
 
-**The client does not show the Chinese names used in the documentation.** The collection labels these pets Erdu (二嘟, `erdu`), Caicai (财财, `caicai`), and Gulu (咕噜, `gulu`). The client still reads the original `displayName` in `pet.json`, so it may show `erdu`, `caicai`, and `gulu`. Documentation names do not change the configuration or installation ids.
+**The client does not show the Chinese names used in the documentation.** The collection labels these pets 二嘟（Erdu） (`erdu`), 财财（Caicai） (`caicai`), and 咕噜（Gulu） (`gulu`). The client still reads the original `displayName` in `pet.json`, so it may show `erdu`, `caicai`, and `gulu`. Documentation names do not change the configuration or installation ids.
 
 **The preview GIF differs from the animation in the client.** Repository GIFs provide a quick preview. The client determines the actual motions and playback speed from the sprite sheet.
 

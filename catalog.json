@@ -7,7 +7,7 @@
     {
       "slug": "erdu",
       "id": "erdu",
-      "name": "二嘟（erdu）",
+      "name": "二嘟（Erdu）",
       "description": "A fluffy white Bichon-like dog Codex pet with round black eyes, floppy ears, a black button nose, and a happy tiny tongue.",
       "category": "cats-and-dog",
       "petdexUrl": "https://petdex.dev/pets/erdu",
@@ -25,12 +25,14 @@
           "bytes": 2010646
         }
       },
-      "sourceName": "erdu"
+      "sourceName": "erdu",
+      "creationType": "original",
+      "creator": "dxlian"
     },
     {
       "slug": "hanli-2",
       "id": "hanli",
-      "name": "韩立（Hanli）",
+      "name": "韩立（Han Li）",
       "description": "A chibi immortal cultivator Codex pet wearing teal robes and Wind-Thunder Wings.",
       "category": "mortal-cultivators",
       "petdexUrl": "https://petdex.dev/pets/hanli-2",
@@ -47,12 +49,13 @@
           "sha256": "b5fd8566c3d55903616b970598caacd5366c0b56f7fe2b881a677fcedb85da07",
           "bytes": 2841734
         }
-      }
+      },
+      "sourceName": "韩立（Hanli）"
     },
     {
       "slug": "yinyue-yitong",
       "id": "yinyue-yitong",
-      "name": "银月（异瞳）",
+      "name": "银月·异瞳（Yinyue Yitong）",
       "description": "凡人修仙传风格的银发狐耳异瞳修仙者桌宠，灵动、清冷又带一点俏皮。",
       "category": "mortal-cultivators",
       "petdexUrl": "https://petdex.dev/pets/yinyue-yitong",
@@ -69,7 +72,8 @@
           "sha256": "9a4be8fc9d820d22bf551b5f66ed40c719155e0018b1a3f629f2153d3f320d02",
           "bytes": 2337060
         }
-      }
+      },
+      "sourceName": "银月（异瞳）"
     },
     {
       "slug": "xuangu",
@@ -91,12 +95,13 @@
           "sha256": "ef053a59c3021cf303a921aa1d91a81f92b1c8740990420205e13f40905e8e8a",
           "bytes": 1723556
         }
-      }
+      },
+      "sourceName": "玄骨（Xuangu）"
     },
     {
       "slug": "song-yu",
       "id": "song-yu",
-      "name": "宋玉",
+      "name": "宋玉（Song Yu）",
       "description": "A compact Codex digital pet inspired by Song Yu from A Record of a Mortal Journey to Immortality, with graceful immortal-cultivator motions.",
       "category": "mortal-cultivators",
       "petdexUrl": "https://petdex.dev/pets/song-yu",
@@ -113,12 +118,13 @@
           "sha256": "79b04be233493a40e4d6fba7290b84d7ba5f6239e12581a04237110c58eba3b8",
           "bytes": 1915308
         }
-      }
+      },
+      "sourceName": "宋玉"
     },
     {
       "slug": "wang-chan-wheelchair",
       "id": "wang-chan-wheelchair",
-      "name": "王婵",
+      "name": "王婵（Wang Chan）",
       "description": "王婵 wheelchair demonic cultivator desktop pet with purple-black robes, ornate bronze wheelchair, cold expression, and blood-spirit cultivation gestures.",
       "category": "mortal-cultivators",
       "petdexUrl": "https://petdex.dev/pets/wang-chan-wheelchair",
@@ -135,12 +141,13 @@
           "sha256": "52aa5c48404e94b2736705db1fd5b539e0121357820859719b9d6d9f0ab60944",
           "bytes": 2484182
         }
-      }
+      },
+      "sourceName": "王婵"
     },
     {
       "slug": "fengxi",
       "id": "fengxi",
-      "name": "风希",
+      "name": "风希（Fengxi）",
       "description": "A slender adult-proportioned desktop pet of Fengxi, the cold cultivator with a gold crown, dark blue-purple robe, silver-blue beast shoulder armor, fang-like shoulder ornaments, and teal waist accessories.",
       "category": "mortal-cultivators",
       "petdexUrl": "https://petdex.dev/pets/fengxi",
@@ -157,12 +164,13 @@
           "sha256": "b2e29b63582658938d734c0acbf4e28404f3f09eb4d38e650b2d9d5dbdbe144b",
           "bytes": 1506846
         }
-      }
+      },
+      "sourceName": "风希"
     },
     {
       "slug": "nanlonghou",
       "id": "nanlonghou",
-      "name": "南陇候",
+      "name": "南陇候（Nanlonghou）",
       "description": "A chibi Codex digital pet of Nanlonghou, an immortal cultivator in blue-gold robes using Wanchi Yixian light-escape movement.",
       "category": "mortal-cultivators",
       "petdexUrl": "https://petdex.dev/pets/nanlonghou",
@@ -179,12 +187,13 @@
           "sha256": "f3af735d2bfb826674f8d5dd81c36e0cc8cd5d835fd822e11063433bac0b316c",
           "bytes": 1907120
         }
-      }
+      },
+      "sourceName": "南陇候"
     },
     {
       "slug": "yinyue-fox",
       "id": "yinyue-fox",
-      "name": "银月狐狸",
+      "name": "银月狐狸·深耳版（Yinyue Huli Shen'er Ban）",
       "description": "参考银月狐狸第二形态制作的小型 Codex 桌宠，白色绒毛、深色耳朵、杏仁眼和蓬松卷尾。",
       "category": "mortal-cultivators",
       "petdexUrl": "https://petdex.dev/pets/yinyue-fox",
@@ -201,12 +210,13 @@
           "sha256": "eca90cceb8e13cc1c6e4e765865e4dcbb047ef0b6496c7e340fa387e1bdcc3e9",
           "bytes": 2104102
         }
-      }
+      },
+      "sourceName": "银月狐狸"
     },
     {
       "slug": "wen-tianren",
       "id": "wen-tianren",
-      "name": "温天仁",
+      "name": "温天仁（Wen Tianren）",
       "description": "A compact Codex digital pet of Wen Tianren, a proud xianxia cultivator in purple-and-gold robes.",
       "category": "mortal-cultivators",
       "petdexUrl": "https://petdex.dev/pets/wen-tianren",
@@ -223,12 +233,13 @@
           "sha256": "746772b8a39c73f6ffdd7511c9792d81a57e68e313af858ce20f85da84ceba65",
           "bytes": 2128790
         }
-      }
+      },
+      "sourceName": "温天仁"
     },
     {
       "slug": "yinyue-3",
       "id": "yinyue",
-      "name": "银月狐狸（Yinyue fox）",
+      "name": "银月狐狸·蓝耳版（Yinyue Huli Lan'er Ban）",
       "description": "A cute white fox with a round face, blue ear tips, blue forehead markings, light blue facial markings, heterochromatic eyes, a small black nose, and a fluffy curly tail.",
       "category": "mortal-cultivators",
       "petdexUrl": "https://petdex.dev/pets/yinyue-3",
@@ -245,7 +256,8 @@
           "sha256": "7d3697890bf9c3d6c8138055b0a0c792283d8678aa7527351de322875fb6c71e",
           "bytes": 2151740
         }
-      }
+      },
+      "sourceName": "银月狐狸（Yinyue fox）"
     },
     {
       "slug": "ziling",
@@ -267,12 +279,13 @@
           "sha256": "479d7d814a9f6d7f23170f16093f36684839e9d701ca479e4ccbfad7b473d86c",
           "bytes": 1550180
         }
-      }
+      },
+      "sourceName": "紫灵（Ziling）"
     },
     {
       "slug": "caicai",
       "id": "caicai",
-      "name": "财财（caicai）",
+      "name": "财财（Caicai）",
       "description": "A quiet silver-white long-haired kitten named caicai, with big blue-gray eyes, a pink nose, soft ear tufts, fluffy chest fur, and a gentle catwalk.",
       "category": "cats-and-dog",
       "petdexUrl": "https://petdex.dev/pets/caicai",
@@ -290,12 +303,14 @@
           "bytes": 2384510
         }
       },
-      "sourceName": "caicai"
+      "sourceName": "caicai",
+      "creationType": "original",
+      "creator": "dxlian"
     },
     {
       "slug": "cc-cat-3",
       "id": "cc-cat",
-      "name": "CC Cat",
+      "name": "CC猫（CC Mao）",
       "description": "A cheerful cream chibi meme cat with a wide round head, side-looking eyes, blush, whiskers, big laughing mouth, small body, and white belly patch.",
       "category": "cats-and-dog",
       "petdexUrl": "https://petdex.dev/pets/cc-cat-3",
@@ -312,12 +327,13 @@
           "sha256": "5fb7b62860fee764617b0f42094607c3691e8b97e7679f60c53c80922de7ce64",
           "bytes": 2059688
         }
-      }
+      },
+      "sourceName": "CC Cat"
     },
     {
       "slug": "gulu",
       "id": "gulu",
-      "name": "咕噜（gulu）",
+      "name": "咕噜（Gulu）",
       "description": "A round silver tabby cat Codex pet with big green eyes, a pink nose, white muzzle, dark forehead stripes, and soft gray rings.",
       "category": "cats-and-dog",
       "petdexUrl": "https://petdex.dev/pets/gulu",
@@ -335,7 +351,9 @@
           "bytes": 2211750
         }
       },
-      "sourceName": "gulu"
+      "sourceName": "gulu",
+      "creationType": "original",
+      "creator": "dxlian"
     }
   ]
 }

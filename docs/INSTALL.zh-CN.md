@@ -69,16 +69,16 @@ python3 scripts/install.py
 `--pet` 使用 **Petdex slug**，可重复指定；不传此参数即选择全部。
 
 ```powershell
-# Windows：安装韩立
+# Windows：安装韩立（Han Li）
 py -3 scripts/install.py --pet hanli-2
-# Windows：安装二嘟（erdu）、韩立和 CC Cat
+# Windows：安装二嘟（Erdu）、韩立（Han Li）和 CC猫（CC Mao）
 py -3 scripts/install.py --pet erdu --pet hanli-2 --pet cc-cat-3
 ```
 
 ```sh
-# macOS / Linux：安装韩立
+# macOS / Linux：安装韩立（Han Li）
 python3 scripts/install.py --pet hanli-2
-# macOS / Linux：安装二嘟（erdu）、韩立和 CC Cat
+# macOS / Linux：安装二嘟（Erdu）、韩立（Han Li）和 CC猫（CC Mao）
 python3 scripts/install.py --pet erdu --pet hanli-2 --pet cc-cat-3
 ```
 
@@ -124,7 +124,7 @@ CODEX_HOME="$HOME/.codex-custom" python3 scripts/install.py --dry-run
 ## 6. 手动安装单只桌宠
 
 不使用 Python 安装器时，可以手动复制；建议先运行完整性校验。
-以韩立为例，仓库 slug 是 `hanli-2`，而 `pet.json` 内的 id 是 `hanli`：
+以韩立（Han Li）为例，仓库 slug 是 `hanli-2`，而 `pet.json` 内的 id 是 `hanli`：
 
 1. 在仓库打开 `pets/hanli-2/`，确认其中有 `pet.json` 和 `spritesheet.webp`。
 2. 找到客户端使用的 pets 根目录；默认是 `~/.codex/pets/`，自定义位置见上一节。
@@ -182,7 +182,7 @@ Windows PowerShell 运行后用 `$LASTEXITCODE` 查看；macOS / Linux 用 `echo
 ## 8. 卸载
 
 关闭客户端，核对要卸载的 **原始 id**，只移除 pets 根目录下对应的那个文件夹，再重新打开客户端。
-例如韩立对应 `hanli`，不是仓库中的 `hanli-2`。如需保留，先将该文件夹备份到 pets 外。
+例如韩立（Han Li）对应 `hanli`，不是仓库中的 `hanli-2`。如需保留，先将该文件夹备份到 pets 外。
 不要删除整个 `.codex` 或整个 `pets` 目录；本仓库没有自动卸载命令，也不会代你删除已安装文件。
 
 ## 9. 常见问题
@@ -195,7 +195,7 @@ Windows PowerShell 运行后用 `$LASTEXITCODE` 查看；macOS / Linux 用 `echo
 
 **银月狐狸显示了两个相同名字。** `yinyue-fox` 和 `yinyue-3` 是两个不同外观，原始显示名都可能是“银月狐狸”；安装 id 分别为 `yinyue-fox` 和 `yinyue`，可按预览图区分。
 
-**客户端没有显示文档里的中文名。** 合集使用二嘟（erdu）、财财（caicai）、咕噜（gulu）作为展示名；客户端仍读取原始 `pet.json` 的 `displayName`，可能显示 `erdu`、`caicai`、`gulu`。文档命名不会修改配置或安装 id。
+**客户端没有显示文档里的中文名。** 合集使用二嘟（Erdu）、财财（Caicai）、咕噜（Gulu）作为展示名；客户端仍读取原始 `pet.json` 的 `displayName`，可能显示 `erdu`、`caicai`、`gulu`。文档命名不会修改配置或安装 id。
 
 **预览 GIF 和实际动作不完全相同。** 仓库 GIF 用于快速浏览；实际动作和播放速度由客户端读取精灵图后决定。
 

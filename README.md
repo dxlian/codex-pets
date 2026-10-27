@@ -2,7 +2,7 @@
 
 **简体中文** | [English](README.en.md)
 
-15 只会动的小伙伴，来自 [@dxlian 的 Petdex 主页](https://petdex.dev/u/dxlian)：11 只《凡人修仙传》风格角色与形态，以及二嘟、财财、CC Cat、咕噜 4 只猫狗伙伴。
+15 只会动的小伙伴，来自 [@dxlian 的 Petdex 主页](https://petdex.dev/u/dxlian)：11 只《凡人修仙传》风格的同人角色与形态、3 只由 dxlian 原创的桌宠——二嘟（Erdu）、财财（Caicai）、咕噜（Gulu），以及表情包风格的 CC猫（CC Mao）。
 
 这是桌宠**素材与安装工具合集**。每只包含原始 `pet.json` 和透明背景精灵图，供支持该格式的 Codex 桌面客户端使用；仓库本身不是一个独立运行的桌宠应用。Python 安装器可在 Windows、macOS、Linux 上运行，桌面客户端与自定义桌宠功能是否可用需以对应平台和版本为准。
 
@@ -18,9 +18,9 @@
 
 <table>
 <tr>
-<td align="center" width="33%"><a href="https://petdex.dev/pets/erdu"><img src="previews/erdu.gif" width="192" height="208" alt="二嘟（erdu） 动态预览"><br><b>二嘟（erdu）</b></a><br><a href="pets/erdu">素材</a> · <code>erdu</code></td>
-<td align="center" width="33%"><a href="https://petdex.dev/pets/hanli-2"><img src="previews/hanli-2.gif" width="192" height="208" alt="韩立（Hanli） 动态预览"><br><b>韩立（Hanli）</b></a><br><a href="pets/hanli-2">素材</a> · <code>hanli-2</code></td>
-<td align="center" width="33%"><a href="https://petdex.dev/pets/yinyue-yitong"><img src="previews/yinyue-yitong.gif" width="192" height="208" alt="银月（异瞳） 动态预览"><br><b>银月（异瞳）</b></a><br><a href="pets/yinyue-yitong">素材</a> · <code>yinyue-yitong</code></td>
+<td align="center" width="33%"><a href="https://petdex.dev/pets/erdu"><img src="previews/erdu.gif" width="192" height="208" alt="二嘟（Erdu） 动态预览"><br><b>二嘟（Erdu）</b></a><br><a href="pets/erdu">素材</a> · <code>erdu</code></td>
+<td align="center" width="33%"><a href="https://petdex.dev/pets/hanli-2"><img src="previews/hanli-2.gif" width="192" height="208" alt="韩立（Han Li） 动态预览"><br><b>韩立（Han Li）</b></a><br><a href="pets/hanli-2">素材</a> · <code>hanli-2</code></td>
+<td align="center" width="33%"><a href="https://petdex.dev/pets/yinyue-yitong"><img src="previews/yinyue-yitong.gif" width="192" height="208" alt="银月·异瞳（Yinyue Yitong） 动态预览"><br><b>银月·异瞳（Yinyue Yitong）</b></a><br><a href="pets/yinyue-yitong">素材</a> · <code>yinyue-yitong</code></td>
 </tr>
 <tr>
 <td align="center" width="33%"><a href="https://petdex.dev/pets/xuangu"><img src="previews/xuangu.gif" width="192" height="208" alt="玄骨（Xuangu） 动态预览"><br><b>玄骨（Xuangu）</b></a><br><a href="pets/xuangu">素材</a> · <code>xuangu</code></td>
@@ -30,17 +30,17 @@
 <tr>
 <td align="center" width="33%"><a href="https://petdex.dev/pets/fengxi"><img src="previews/fengxi.gif" width="192" height="208" alt="风希（Fengxi） 动态预览"><br><b>风希（Fengxi）</b></a><br><a href="pets/fengxi">素材</a> · <code>fengxi</code></td>
 <td align="center" width="33%"><a href="https://petdex.dev/pets/nanlonghou"><img src="previews/nanlonghou.gif" width="192" height="208" alt="南陇候（Nanlonghou） 动态预览"><br><b>南陇候（Nanlonghou）</b></a><br><a href="pets/nanlonghou">素材</a> · <code>nanlonghou</code></td>
-<td align="center" width="33%"><a href="https://petdex.dev/pets/yinyue-fox"><img src="previews/yinyue-fox.gif" width="192" height="208" alt="银月狐狸 · 深耳版 动态预览"><br><b>银月狐狸 · 深耳版</b></a><br><a href="pets/yinyue-fox">素材</a> · <code>yinyue-fox</code></td>
+<td align="center" width="33%"><a href="https://petdex.dev/pets/yinyue-fox"><img src="previews/yinyue-fox.gif" width="192" height="208" alt="银月狐狸·深耳版（Yinyue Huli Shen&#x27;er Ban） 动态预览"><br><b>银月狐狸·深耳版（Yinyue Huli Shen&#x27;er Ban）</b></a><br><a href="pets/yinyue-fox">素材</a> · <code>yinyue-fox</code></td>
 </tr>
 <tr>
 <td align="center" width="33%"><a href="https://petdex.dev/pets/wen-tianren"><img src="previews/wen-tianren.gif" width="192" height="208" alt="温天仁（Wen Tianren） 动态预览"><br><b>温天仁（Wen Tianren）</b></a><br><a href="pets/wen-tianren">素材</a> · <code>wen-tianren</code></td>
-<td align="center" width="33%"><a href="https://petdex.dev/pets/yinyue-3"><img src="previews/yinyue-3.gif" width="192" height="208" alt="银月狐狸 · 蓝耳版 动态预览"><br><b>银月狐狸 · 蓝耳版</b></a><br><a href="pets/yinyue-3">素材</a> · <code>yinyue-3</code></td>
+<td align="center" width="33%"><a href="https://petdex.dev/pets/yinyue-3"><img src="previews/yinyue-3.gif" width="192" height="208" alt="银月狐狸·蓝耳版（Yinyue Huli Lan&#x27;er Ban） 动态预览"><br><b>银月狐狸·蓝耳版（Yinyue Huli Lan&#x27;er Ban）</b></a><br><a href="pets/yinyue-3">素材</a> · <code>yinyue-3</code></td>
 <td align="center" width="33%"><a href="https://petdex.dev/pets/ziling"><img src="previews/ziling.gif" width="192" height="208" alt="紫灵（Ziling） 动态预览"><br><b>紫灵（Ziling）</b></a><br><a href="pets/ziling">素材</a> · <code>ziling</code></td>
 </tr>
 <tr>
-<td align="center" width="33%"><a href="https://petdex.dev/pets/caicai"><img src="previews/caicai.gif" width="192" height="208" alt="财财（caicai） 动态预览"><br><b>财财（caicai）</b></a><br><a href="pets/caicai">素材</a> · <code>caicai</code></td>
-<td align="center" width="33%"><a href="https://petdex.dev/pets/cc-cat-3"><img src="previews/cc-cat-3.gif" width="192" height="208" alt="CC Cat 动态预览"><br><b>CC Cat</b></a><br><a href="pets/cc-cat-3">素材</a> · <code>cc-cat-3</code></td>
-<td align="center" width="33%"><a href="https://petdex.dev/pets/gulu"><img src="previews/gulu.gif" width="192" height="208" alt="咕噜（gulu） 动态预览"><br><b>咕噜（gulu）</b></a><br><a href="pets/gulu">素材</a> · <code>gulu</code></td>
+<td align="center" width="33%"><a href="https://petdex.dev/pets/caicai"><img src="previews/caicai.gif" width="192" height="208" alt="财财（Caicai） 动态预览"><br><b>财财（Caicai）</b></a><br><a href="pets/caicai">素材</a> · <code>caicai</code></td>
+<td align="center" width="33%"><a href="https://petdex.dev/pets/cc-cat-3"><img src="previews/cc-cat-3.gif" width="192" height="208" alt="CC猫（CC Mao） 动态预览"><br><b>CC猫（CC Mao）</b></a><br><a href="pets/cc-cat-3">素材</a> · <code>cc-cat-3</code></td>
+<td align="center" width="33%"><a href="https://petdex.dev/pets/gulu"><img src="previews/gulu.gif" width="192" height="208" alt="咕噜（Gulu） 动态预览"><br><b>咕噜（Gulu）</b></a><br><a href="pets/gulu">素材</a> · <code>gulu</code></td>
 </tr>
 </table>
 
@@ -105,11 +105,13 @@ npx petdex install erdu
 
 ## 每只桌宠的介绍
 
-以下介绍依据原始发布说明与图像外观整理。全部收录的 Petdex 精灵版本均为 **v1**。二嘟、财财、咕噜的中文名已加入图鉴；原始配置中的 `displayName` 分别保留 `erdu`、`caicai`、`gulu`，因此客户端可能仍显示这些英文名。
+以下介绍依据原始发布说明与图像外观整理。全部收录的 Petdex 精灵版本均为 **v1**。中英文文档统一采用“中文名（拼音）”作为展示名称；原始 `pet.json` 的 `displayName` 和 id 保持不变，客户端因此可能仍显示发布时的原名。
 
 下面逐只安装命令中的 `python`，Windows 可替换为 `py -3`，macOS / Linux 可替换为 `python3`。
 
-### 01. 二嘟（erdu）
+### 01. 二嘟（Erdu）
+
+**原创桌宠 · 作者：dxlian**
 
 一只比熊犬风格的白色毛茸茸小狗：圆黑眼睛、软软的垂耳、黑色纽扣鼻，以及伸出一点点的小舌头。整体轮廓圆润，表情开心，适合喜欢温暖、轻松陪伴感的人。
 
@@ -119,7 +121,7 @@ npx petdex install erdu
 python scripts/install.py --pet erdu
 ```
 
-### 02. 韩立（Hanli）
+### 02. 韩立（Han Li）
 
 身穿青蓝色长袍的 Q 版修仙者，背后的风雷翅是最醒目的设计标志。小巧的人物比例配上展开的羽翼，让这只桌宠同时保留修仙角色的装束和鲜明的轮廓。
 
@@ -129,7 +131,7 @@ python scripts/install.py --pet erdu
 python scripts/install.py --pet hanli-2
 ```
 
-### 03. 银月（异瞳）
+### 03. 银月·异瞳（Yinyue Yitong）
 
 银发、狐耳与异色双瞳构成主要辨识点，白色衣装搭配红色腰带，整体气质清冷又带一点俏皮。这是银月的人形狐耳版本，与下面两只狐狸形态分别收录。
 
@@ -189,7 +191,7 @@ python scripts/install.py --pet fengxi
 python scripts/install.py --pet nanlonghou
 ```
 
-### 09. 银月狐狸 · 深耳版
+### 09. 银月狐狸·深耳版（Yinyue Huli Shen'er Ban）
 
 参考银月狐狸第二形态制作：白色绒毛、深色耳朵、杏仁形眼睛和蓬松卷尾，神态较为灵巧。这一版的安装 id 是 `yinyue-fox`，与蓝耳版 `yinyue` 不同，两只可以同时保留。
 
@@ -209,7 +211,7 @@ python scripts/install.py --pet yinyue-fox
 python scripts/install.py --pet wen-tianren
 ```
 
-### 11. 银月狐狸 · 蓝耳版
+### 11. 银月狐狸·蓝耳版（Yinyue Huli Lan'er Ban）
 
 圆脸白色小狐狸，具有蓝色耳尖、蓝色额印、浅蓝脸纹、异色眼睛、黑色小鼻子和蓬松卷尾。Petdex 编号为 `yinyue-3`，原始安装 id 为 `yinyue`；它与深耳版的图片不同，并非重复文件。
 
@@ -229,7 +231,9 @@ python scripts/install.py --pet yinyue-3
 python scripts/install.py --pet ziling
 ```
 
-### 13. 财财（caicai）
+### 13. 财财（Caicai）
+
+**原创桌宠 · 作者：dxlian**
 
 银白色长毛小猫，带有蓝灰色大眼睛、粉色鼻子、耳尖绒毛和蓬松胸毛。表情温柔、步态设计轻柔，适合偏爱安静小猫形象的人。
 
@@ -239,7 +243,7 @@ python scripts/install.py --pet ziling
 python scripts/install.py --pet caicai
 ```
 
-### 14. CC Cat
+### 14. CC猫（CC Mao）
 
 奶油色的表情包风格小猫，宽圆的大脑袋、侧看的眼睛、红晕、胡须、夸张笑嘴与白色肚皮都很醒目。头大身小的比例和开心表情让它成为合集里偏轻松搞怪的一只。
 
@@ -249,7 +253,9 @@ python scripts/install.py --pet caicai
 python scripts/install.py --pet cc-cat-3
 ```
 
-### 15. 咕噜（gulu）
+### 15. 咕噜（Gulu）
+
+**原创桌宠 · 作者：dxlian**
 
 圆润的银色虎斑猫，拥有绿色大眼睛、粉色鼻子、白色嘴边毛、深色额纹和柔和的灰色环状花纹。与长毛的财财相比，咕噜的辨识点是虎斑纹路和圆圆的脸。
 
@@ -261,25 +267,25 @@ python scripts/install.py --pet gulu
 
 ## 完整编号对照
 
-`slug` 是 Petdex 页面编号、仓库文件夹名以及 `--pet` 参数；`id` 是原始 `pet.json` 里的编号，也是客户端安装文件夹名。韩立、CC Cat 和蓝耳版银月的二者不同，安装器会自动转换。
+`slug` 是 Petdex 页面编号、仓库文件夹名以及 `--pet` 参数；`id` 是原始 `pet.json` 里的编号，也是客户端安装文件夹名。韩立（Han Li）、CC猫（CC Mao） 和蓝耳版银月的二者不同，安装器会自动转换。
 
 | 桌宠 | Petdex slug / 仓库目录 | 原始 id / 安装目录 |
 | --- | --- | --- |
-| [二嘟（erdu）](https://petdex.dev/pets/erdu) | `erdu` | `erdu` |
-| [韩立（Hanli）](https://petdex.dev/pets/hanli-2) | `hanli-2` | `hanli` |
-| [银月（异瞳）](https://petdex.dev/pets/yinyue-yitong) | `yinyue-yitong` | `yinyue-yitong` |
+| [二嘟（Erdu）](https://petdex.dev/pets/erdu) | `erdu` | `erdu` |
+| [韩立（Han Li）](https://petdex.dev/pets/hanli-2) | `hanli-2` | `hanli` |
+| [银月·异瞳（Yinyue Yitong）](https://petdex.dev/pets/yinyue-yitong) | `yinyue-yitong` | `yinyue-yitong` |
 | [玄骨（Xuangu）](https://petdex.dev/pets/xuangu) | `xuangu` | `xuangu` |
 | [宋玉（Song Yu）](https://petdex.dev/pets/song-yu) | `song-yu` | `song-yu` |
 | [王婵（Wang Chan）](https://petdex.dev/pets/wang-chan-wheelchair) | `wang-chan-wheelchair` | `wang-chan-wheelchair` |
 | [风希（Fengxi）](https://petdex.dev/pets/fengxi) | `fengxi` | `fengxi` |
 | [南陇候（Nanlonghou）](https://petdex.dev/pets/nanlonghou) | `nanlonghou` | `nanlonghou` |
-| [银月狐狸 · 深耳版](https://petdex.dev/pets/yinyue-fox) | `yinyue-fox` | `yinyue-fox` |
+| [银月狐狸·深耳版（Yinyue Huli Shen'er Ban）](https://petdex.dev/pets/yinyue-fox) | `yinyue-fox` | `yinyue-fox` |
 | [温天仁（Wen Tianren）](https://petdex.dev/pets/wen-tianren) | `wen-tianren` | `wen-tianren` |
-| [银月狐狸 · 蓝耳版](https://petdex.dev/pets/yinyue-3) | `yinyue-3` | `yinyue` |
+| [银月狐狸·蓝耳版（Yinyue Huli Lan'er Ban）](https://petdex.dev/pets/yinyue-3) | `yinyue-3` | `yinyue` |
 | [紫灵（Ziling）](https://petdex.dev/pets/ziling) | `ziling` | `ziling` |
-| [财财（caicai）](https://petdex.dev/pets/caicai) | `caicai` | `caicai` |
-| [CC Cat](https://petdex.dev/pets/cc-cat-3) | `cc-cat-3` | `cc-cat` |
-| [咕噜（gulu）](https://petdex.dev/pets/gulu) | `gulu` | `gulu` |
+| [财财（Caicai）](https://petdex.dev/pets/caicai) | `caicai` | `caicai` |
+| [CC猫（CC Mao）](https://petdex.dev/pets/cc-cat-3) | `cc-cat-3` | `cc-cat` |
+| [咕噜（Gulu）](https://petdex.dev/pets/gulu) | `gulu` | `gulu` |
 
 ## 文件与版本
 
@@ -305,6 +311,7 @@ scripts/validate.py          完整性检查
 ## 来源与说明
 
 - 桌宠发布者：[dxlian](https://github.com/dxlian) · [Petdex 主页](https://petdex.dev/u/dxlian)
+- **原创作品：二嘟（Erdu）、财财（Caicai）、咕噜（Gulu）均为 dxlian 原创桌宠。**
 - 展示与安装平台：[Petdex](https://petdex.dev) · [Petdex 开源项目](https://github.com/crafter-station/petdex)
 - 与既有作品有关的桌宠属于同人创作，原作角色、名称及相关权利归各自权利人。本仓库整理不代表授予原作 IP 或美术素材的额外许可。
 
