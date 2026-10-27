@@ -277,12 +277,6 @@ scripts/install.py          Offline installer
 scripts/validate.py         Collection integrity checker
 ```
 
-## Snapshot and source versions
-
-This snapshot covers all **15 published pets** on [dxlian's Petdex profile](https://petdex.dev/u/dxlian), checked on **October 27, 2026**. Fourteen sprite sheets matched the locally saved versions byte for byte; **玄骨（Xuangu） uses the Petdex-published version** because the local copy differed. Unpublished drafts, duplicate aliases, and old backups are outside this collection.
-
-The three Yinyue entries are distinct: a fox-eared humanoid, a dark-eared white fox, and a blue-marked white fox. Each retains its own original ID and sprite sheet. All installation files are preserved as published, without redrawing or recompressing the sprite sheets; the GIFs are separate display previews. File hashes and source URLs are recorded in [catalog.json](catalog.json).
-
 ## Attribution
 
 - Pet publisher: [dxlian on GitHub](https://github.com/dxlian) · [dxlian on Petdex](https://petdex.dev/u/dxlian).
