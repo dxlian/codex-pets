@@ -7,7 +7,7 @@
     {
       "slug": "erdu",
       "id": "erdu",
-      "name": "erdu",
+      "name": "二嘟（erdu）",
       "description": "A fluffy white Bichon-like dog Codex pet with round black eyes, floppy ears, a black button nose, and a happy tiny tongue.",
       "category": "cats-and-dog",
       "petdexUrl": "https://petdex.dev/pets/erdu",
@@ -24,7 +24,8 @@
           "sha256": "761c69f2cb952976fd12fee67f1d2c53a8f1b3f8eb8bf8eeef0cf69cb3af6a55",
           "bytes": 2010646
         }
-      }
+      },
+      "sourceName": "erdu"
     },
     {
       "slug": "hanli-2",
@@ -271,7 +272,7 @@
     {
       "slug": "caicai",
       "id": "caicai",
-      "name": "caicai",
+      "name": "财财（caicai）",
       "description": "A quiet silver-white long-haired kitten named caicai, with big blue-gray eyes, a pink nose, soft ear tufts, fluffy chest fur, and a gentle catwalk.",
       "category": "cats-and-dog",
       "petdexUrl": "https://petdex.dev/pets/caicai",
@@ -288,7 +289,8 @@
           "sha256": "f898a4639a259614803c31dbbbaba16e3b0f7101ab338c86bb5dab5fa0eac634",
           "bytes": 2384510
         }
-      }
+      },
+      "sourceName": "caicai"
     },
     {
       "slug": "cc-cat-3",
@@ -315,7 +317,7 @@
     {
       "slug": "gulu",
       "id": "gulu",
-      "name": "gulu",
+      "name": "咕噜（gulu）",
       "description": "A round silver tabby cat Codex pet with big green eyes, a pink nose, white muzzle, dark forehead stripes, and soft gray rings.",
       "category": "cats-and-dog",
       "petdexUrl": "https://petdex.dev/pets/gulu",
@@ -332,7 +334,8 @@
           "sha256": "6c753a4ea87ab59ef2560c4577f9784f73fe4c40890d0bba0930dde2db3f80e6",
           "bytes": 2211750
         }
-      }
+      },
+      "sourceName": "gulu"
     }
   ]
 }
